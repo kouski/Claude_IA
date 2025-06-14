@@ -75,6 +75,7 @@ header {
     font-size: clamp(0.6rem, 5vw, 5rem);
     line-height: 1.6;
     display: block;
+    padding-top: 50%;
 }
 
 .header-title-line-2 {

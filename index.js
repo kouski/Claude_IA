@@ -29,7 +29,7 @@ summaryLengthInput.addEventListener('input', updateSummaryLengthText)
 
 // Button Event Handlers
 function summarize() {
-    // TO BE IMPLEMENTED
+    startLoading()
 }
 
 async function copy() {
